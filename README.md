@@ -9,3 +9,6 @@
 
 ### Project Description
 Phishing Detection using HTML Template Analysis. Extracting necessary features and using an Machine Learning model to classify websites as legitimate or phishing.
+
+### Dataset
+https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector

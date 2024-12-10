@@ -12,3 +12,6 @@ Phishing Detection using HTML Template Analysis. Extracting necessary features a
 
 ### Dataset
 https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector
+
+### References
+Phishing websites features. (n.d.). https://eprints.hud.ac.uk/id/eprint/24330/6/MohammadPhishing14July2015.pdf 
